@@ -3,16 +3,16 @@
 package main
 
 import (
-  "log"
-  "os"
+	"log"
+	"os"
 )
 
 type Job struct {
-  Command string
-  *log.Logger // implicit composition here
+	Command     string
+	*log.Logger // implicit composition here
 }
 
 func main() {
-  job := &Job{"demo", log.New(os.Stderr, "Job: ", log.Ldate)}
-  job.Print("starting now...")
+	job := &Job{"demo", log.New(os.Stderr, "Job: ", log.Ldate)}
+	job.Print("starting now...")
 }
