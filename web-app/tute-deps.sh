@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+echo "Installing heroku toolbelt"
+which heroku || wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+
 echo "go get mux - A powerful URL router and dispatcher"
 go get -u github.com/gorilla/mux
 echo "go get negroni - Idiomatic HTTP Middleware"
