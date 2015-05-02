@@ -1,0 +1,15 @@
+{
+	"ImportPath": "github.com/bawdo/go-junk/web-app/bwag/deployment",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/russross/blackfriday",
+			"Comment": "v1.2-54-g17bb799",
+			"Rev": "17bb7999de6cfb791d4f8986cc00b3309b370cdb"
+		},
+		{
+			"ImportPath": "github.com/shurcooL/sanitized_anchor_name",
+			"Rev": "8e87604bec3c645a4eeaee97dfec9f25811ff20d"
+		}
+	]
+}
