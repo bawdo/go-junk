@@ -12,3 +12,5 @@ The files for this tutorial are found in ./{basics,hello}
 ###  [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
 
 The files for this tutorial are found in ./bwag
+
+Note to self. I need to re-read bwag and do the exercises.
