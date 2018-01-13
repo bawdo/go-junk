@@ -1,4 +1,4 @@
-My Go Junk
+My Go Junk :persevere:
 ==========
 
 This is my junk draw for playing about with [Go](https://golang.org/)
