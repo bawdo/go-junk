@@ -14,3 +14,7 @@ The files for this tutorial are found in ./{basics,hello}
 The files for this tutorial are found in ./bwag
 
 Note to self. I need to re-read bwag and do the exercises.
+
+### Golang Training
+
+Files for this training package are found in ./golang-training
